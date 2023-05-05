@@ -9,6 +9,7 @@ namespace TestWebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [Produces("application/json")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -23,6 +24,21 @@ namespace TestWebAPI.Controllers
             _logger = logger;
         }
 
+        // Взять Component по его id
+        /// <summary>
+        /// Get Component by its Id
+        /// </summary>
+        /// <remarks>
+        /// Return a component with the corresponding Id (including if it was removed). Example input:
+        /// 
+        ///     {
+        ///         componentId: 1
+        ///     }
+        /// 
+        /// </remarks>
+        /// <response code="200">Returns the newly created item</response>
+        /// <response code="400">If the item is null</response>
+        /// <returns></returns>
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {

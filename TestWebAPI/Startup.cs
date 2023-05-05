@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
@@ -30,6 +31,8 @@ namespace TestWebAPI
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "TestWebAPI", Version = "v1"});
+                var filePath = Path.Combine(System.AppContext.BaseDirectory, "TestWebAPI.xml");
+                c.IncludeXmlComments(filePath);
             });
         }
 
@@ -39,6 +42,7 @@ namespace TestWebAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                //app.UseSwagger();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "TestWebAPI v1"));
             }
