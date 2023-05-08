@@ -1,0 +1,1011 @@
+TaskId,Name,Description,DifficaltyLvl,TypeId
+1,justo etiam pretium iaculis justo,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,61.1,6
+2,eu interdum,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris,83.28,9
+3,dolor morbi vel lectus in,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,42.55,3
+4,eget massa tempor,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,70.52,8
+5,mauris non,cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam,98.57,7
+6,faucibus orci luctus et,pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque,91.03,7
+7,ut ultrices vel augue,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,83.55,5
+8,sollicitudin vitae consectetuer eget,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,93.27,3
+9,justo nec condimentum,odio condimentum id luctus nec molestie sed justo pellentesque viverra,61.86,2
+10,ut suscipit,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis,81.39,8
+11,sed nisl nunc rhoncus,platea dictumst morbi,84.19,4
+12,primis in faucibus,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices,27.23,8
+13,vestibulum aliquet ultrices erat,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac,21.49,5
+14,vivamus in felis,lorem integer tincidunt ante vel ipsum praesent blandit lacinia,10.72,7
+15,nulla suscipit ligula in,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi,34.94,7
+16,pede ullamcorper augue a suscipit,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,53.84,4
+17,risus semper porta,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui,18.92,5
+18,condimentum neque sapien placerat ante,pellentesque volutpat dui maecenas tristique est et tempus semper est quam,71.59,9
+19,leo,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui,26.84,9
+20,quam,tortor,91.68,7
+21,donec posuere metus vitae,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce,50.39,5
+22,volutpat quam pede,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam,90.34,4
+23,ac nulla,parturient montes,73.45,6
+24,posuere cubilia curae,quis turpis sed ante,53.77,5
+25,ridiculus mus etiam,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec,82.76,9
+26,primis in faucibus orci luctus,mi nulla ac enim in,95.88,3
+27,quis tortor id,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,48.56,9
+28,nulla,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus,30.5,8
+29,pede lobortis,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur,85.16,2
+30,erat vestibulum sed magna,sem,97.61,2
+31,massa donec,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti,61.24,5
+32,blandit,eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum,5.85,3
+33,pellentesque volutpat dui,amet nunc viverra dapibus nulla,82.52,10
+34,elit sodales scelerisque,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere,59.66,4
+35,eu,morbi a ipsum integer a nibh in,40.1,7
+36,nulla tempus vivamus in,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean,73.63,1
+37,dapibus nulla suscipit ligula,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,45.68,5
+38,elementum pellentesque quisque,in imperdiet et,66.4,3
+39,sapien,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,1.64,4
+40,mattis egestas metus aenean,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum,97.7,2
+41,nam tristique tortor eu,in leo maecenas pulvinar,70.84,10
+42,aliquam lacus morbi,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci,66.29,4
+43,et magnis,cum sociis,54.82,6
+44,eros elementum pellentesque,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue,11.61,1
+45,vestibulum quam sapien varius,dui vel nisl duis ac,50.61,5
+46,nisi,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum,44.1,2
+47,id justo,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc,71.58,7
+48,ipsum aliquam non mauris morbi,in eleifend quam a odio in hac habitasse platea dictumst,6.88,2
+49,praesent blandit nam,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam,92.03,10
+50,suspendisse,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis,48.15,5
+51,aliquet massa,placerat ante nulla justo aliquam quis,25.47,5
+52,elementum ligula vehicula,orci mauris lacinia sapien quis,53.71,3
+53,est donec odio justo,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget,60.04,8
+54,libero convallis,nisi vulputate nonummy maecenas tincidunt lacus,85.76,10
+55,morbi non,nisl nunc rhoncus,36.56,3
+56,nulla pede ullamcorper augue a,elit proin interdum,1.27,1
+57,proin,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices,79.88,3
+58,vestibulum sit amet,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim,69.12,4
+59,platea dictumst aliquam,nulla elit ac nulla sed vel enim sit amet,70.14,7
+60,mollis molestie lorem,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse,59.06,10
+61,velit eu est congue elementum,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien,63.81,4
+62,quisque,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam,1.65,7
+63,tincidunt,primis in faucibus orci luctus et,36.23,4
+64,orci luctus et ultrices posuere,tempor convallis nulla neque libero,27.44,1
+65,amet turpis,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,37.41,9
+66,dis parturient,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et,70.08,1
+67,amet lobortis sapien sapien,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet,72.81,5
+68,vestibulum ante ipsum primis,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,4.86,5
+69,porttitor id consequat,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,91.04,8
+70,consequat dui,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur,1.49,4
+71,ac,viverra pede ac diam cras pellentesque volutpat dui,92.61,2
+72,in eleifend,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,65.89,1
+73,diam erat fermentum justo nec,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,4.03,5
+74,blandit lacinia erat,posuere cubilia curae duis faucibus accumsan odio curabitur,43.24,7
+75,sem fusce consequat nulla,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel,64.2,7
+76,magnis dis parturient montes,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,71.47,5
+77,ridiculus,a ipsum,44.07,2
+78,odio in hac habitasse,lorem integer tincidunt ante vel ipsum praesent,79.14,3
+79,bibendum morbi non quam nec,eget massa tempor convallis nulla neque libero convallis,10.55,5
+80,lacus at,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis,81.8,6
+81,rhoncus aliquet,luctus et ultrices,53.38,3
+82,sit amet consectetuer adipiscing,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui,5.33,7
+83,habitasse platea dictumst morbi vestibulum,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,70.48,3
+84,habitasse platea,vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci,96.52,7
+85,cubilia curae donec,suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in,3.69,2
+86,nulla ac,blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget,97.63,1
+87,non pretium quis lectus suspendisse,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede,60.78,5
+88,pharetra magna,quam pharetra magna ac consequat metus sapien ut,16.78,8
+89,vel pede morbi,eget massa tempor,17.02,9
+90,luctus,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,37.18,6
+91,venenatis,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,66.12,1
+92,duis bibendum morbi non quam,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet,30.14,6
+93,ipsum praesent blandit lacinia erat,vel dapibus,85.74,1
+94,curae donec pharetra magna,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,16.3,6
+95,molestie,turpis adipiscing lorem,45.17,7
+96,aliquam augue,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,81.89,1
+97,consequat,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum,63.53,7
+98,non,felis ut,53.07,4
+99,proin risus praesent lectus,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,32.07,3
+100,quam,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,34.1,5
+101,amet justo morbi ut,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam,46.24,6
+102,dolor morbi vel lectus in,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate,69.68,10
+103,convallis eget eleifend,sapien sapien non mi,96.73,7
+104,morbi sem,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at,77.31,2
+105,mi nulla ac enim in,in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non,40.0,6
+106,orci,lacinia aenean sit,17.96,8
+107,vivamus vel nulla eget,amet justo morbi ut odio cras,26.25,2
+108,odio,in ante vestibulum,31.77,3
+109,eleifend quam a odio in,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque,73.89,6
+110,cras non velit nec nisi,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,95.82,7
+111,lobortis vel,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra,1.4,5
+112,vel nisl duis ac,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit,49.12,1
+113,cras mi pede malesuada,amet sapien dignissim vestibulum,57.24,9
+114,lectus in est risus auctor,in felis donec semper sapien a libero nam,98.88,7
+115,mus etiam vel,curabitur at ipsum ac tellus semper,88.23,2
+116,id ornare imperdiet,justo pellentesque viverra pede ac,36.79,10
+117,id,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo,29.07,5
+118,luctus rutrum nulla tellus in,curae mauris viverra diam vitae,6.67,6
+119,magna vulputate,morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus,11.92,10
+120,adipiscing molestie hendrerit at,ultrices posuere,17.66,2
+121,vestibulum vestibulum,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,53.13,8
+122,vivamus in felis eu sapien,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam,30.26,5
+123,integer a nibh in,cursus id turpis integer aliquet massa id lobortis convallis,42.17,2
+124,eros viverra eget,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet,98.57,6
+125,leo odio condimentum id luctus,pede malesuada in imperdiet et,35.52,9
+126,hac habitasse,praesent blandit lacinia,14.43,5
+127,a nibh in quis justo,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent,97.59,6
+128,phasellus sit amet erat nulla,nibh ligula nec sem duis aliquam,4.0,1
+129,non sodales sed,morbi odio odio elementum eu,14.71,8
+130,rutrum nulla nunc purus phasellus,rhoncus sed vestibulum sit amet cursus id turpis,77.67,2
+131,non mauris morbi non,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,66.44,6
+132,volutpat,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi,24.78,9
+133,diam erat fermentum justo,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,16.79,1
+134,in purus,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis,65.74,6
+135,sed ante,tellus nisi eu orci mauris lacinia sapien,21.42,3
+136,duis,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,35.58,2
+137,leo rhoncus,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,52.72,7
+138,posuere,nunc rhoncus dui vel sem sed sagittis nam,80.54,10
+139,quis justo maecenas rhoncus,mattis egestas metus aenean fermentum donec,68.86,6
+140,nulla ac enim in tempor,nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est,33.83,7
+141,est congue,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,59.03,10
+142,nisl,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula,43.8,6
+143,in blandit,rutrum rutrum neque aenean auctor gravida sem praesent id,25.28,3
+144,id justo sit amet sapien,urna pretium nisl ut volutpat,77.2,8
+145,gravida,porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac,76.92,5
+146,vel augue vestibulum rutrum rutrum,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut,41.76,6
+147,nulla sed vel enim sit,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie,14.28,9
+148,odio cras mi pede malesuada,massa donec dapibus duis at velit eu est congue elementum in hac,26.59,10
+149,tortor sollicitudin mi,nec molestie sed justo pellentesque viverra pede ac,61.49,6
+150,orci nullam molestie,ut nulla sed accumsan felis ut at dolor quis odio consequat varius,88.19,3
+151,erat quisque erat eros,nam nulla integer,59.44,7
+152,id justo sit amet,quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas,63.52,6
+153,ultrices posuere cubilia,nam,81.24,3
+154,consequat ut nulla,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed,31.86,7
+155,ac neque duis bibendum,luctus,11.24,3
+156,vitae consectetuer eget,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,87.88,9
+157,odio,turpis a pede posuere nonummy,33.57,8
+158,venenatis non sodales,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet,73.26,3
+159,ut rhoncus aliquet pulvinar,adipiscing elit proin interdum mauris non ligula pellentesque ultrices,93.58,5
+160,id,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,73.51,5
+161,mi,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis,5.28,6
+162,vulputate luctus cum,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros,77.38,2
+163,sit,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,38.17,3
+164,sit amet sapien,tortor,77.24,10
+165,convallis,et ultrices posuere cubilia curae nulla dapibus dolor vel est,20.76,6
+166,justo eu,volutpat sapien arcu,72.64,6
+167,erat fermentum justo,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut,58.93,2
+168,morbi,ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate,84.55,6
+169,sit,in faucibus orci luctus,32.68,2
+170,quisque porta volutpat erat quisque,vitae nisl aenean lectus pellentesque eget nunc donec quis,1.51,10
+171,posuere,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut,85.13,7
+172,luctus,pellentesque eget nunc,54.09,7
+173,magna,non velit,36.78,9
+174,nec sem duis aliquam,sapien non mi integer ac neque duis bibendum morbi non,79.87,2
+175,condimentum curabitur in libero,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc,29.23,6
+176,libero nam dui,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui,75.74,7
+177,mi in,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie,9.95,2
+178,quis justo,imperdiet nullam orci pede venenatis non sodales sed tincidunt,90.93,1
+179,dis parturient montes,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo,24.26,5
+180,ante ipsum,pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit,34.03,1
+181,turpis elementum ligula vehicula consequat,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,48.86,5
+182,velit donec diam,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede,48.36,2
+183,non quam,quisque erat eros viverra eget congue eget semper rutrum nulla nunc,8.69,2
+184,id ligula suspendisse ornare consequat,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet,49.06,5
+185,eget,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at,41.47,2
+186,adipiscing lorem vitae mattis nibh,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget,49.76,7
+187,convallis eget eleifend luctus ultricies,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt,75.49,4
+188,eu tincidunt in,magna ac consequat,23.05,2
+189,sapien,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,82.98,8
+190,lacus morbi quis tortor,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,13.85,8
+191,odio donec vitae nisi,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,97.84,5
+192,sociis,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum,10.22,5
+193,penatibus et magnis dis parturient,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,59.55,5
+194,primis,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget,61.68,10
+195,lorem ipsum dolor,ac consequat metus sapien ut,11.88,9
+196,neque sapien,pretium nisl ut volutpat sapien arcu sed augue,76.42,6
+197,lobortis vel dapibus,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in,34.26,9
+198,phasellus in felis,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc,24.46,3
+199,neque aenean,donec posuere metus vitae ipsum,36.52,4
+200,consequat,phasellus in felis donec semper sapien a libero nam dui proin,79.02,2
+201,faucibus,mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut,9.41,2
+202,neque,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,19.91,10
+203,consectetuer eget rutrum at lorem,donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst,51.02,7
+204,nulla,mollis molestie lorem quisque,36.12,3
+205,convallis nulla neque libero convallis,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,4.94,2
+206,pede,vel accumsan tellus nisi eu orci mauris lacinia,7.12,7
+207,ipsum aliquam,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus,22.49,5
+208,ipsum dolor sit,sapien cursus vestibulum,68.31,7
+209,vel nulla eget,ac consequat metus sapien,80.56,9
+210,curae duis,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam,28.99,2
+211,posuere felis sed lacus morbi,tempus sit amet sem fusce consequat,57.3,10
+212,nascetur,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget,74.86,8
+213,viverra dapibus nulla suscipit ligula,orci luctus,98.28,9
+214,id luctus,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,55.41,4
+215,nulla,consequat morbi a ipsum integer a nibh in quis justo,74.32,9
+216,donec posuere metus vitae,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis,11.96,6
+217,et magnis dis parturient,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus,71.97,8
+218,pulvinar sed nisl nunc rhoncus,pede justo eu massa donec dapibus duis at velit eu est congue elementum,27.59,10
+219,ultrices posuere,at lorem,39.55,4
+220,nunc proin at turpis a,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis,56.47,8
+221,libero,eleifend quam a odio in hac habitasse platea dictumst,21.59,9
+222,nunc nisl,elit,82.53,5
+223,morbi,pretium iaculis justo in,80.36,5
+224,sed,nonummy maecenas tincidunt lacus at,48.69,4
+225,habitasse platea dictumst maecenas,eu magna vulputate luctus cum sociis,60.68,5
+226,in blandit ultrices enim,vulputate,10.83,10
+227,eget eleifend luctus ultricies,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,52.73,4
+228,id consequat in consequat,est risus auctor sed tristique in tempus sit amet sem,82.79,2
+229,enim,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,92.16,8
+230,rutrum,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,92.57,9
+231,proin,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,11.43,10
+232,purus sit amet,nisi volutpat eleifend donec ut dolor morbi vel lectus,92.0,2
+233,nunc nisl,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas,78.53,6
+234,ornare consequat,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,1.11,7
+235,in est risus auctor,risus praesent lectus,66.71,10
+236,quisque erat eros viverra eget,sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus,13.81,9
+237,est,fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue,45.54,1
+238,dui,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,18.29,5
+239,feugiat et,congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,33.41,8
+240,quis turpis eget elit sodales,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,73.4,6
+241,turpis integer aliquet massa id,proin risus praesent,20.14,2
+242,suscipit a,phasellus in felis donec semper sapien a libero nam dui proin,82.28,10
+243,lacinia erat vestibulum sed,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra,46.31,4
+244,erat,nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque,14.89,2
+245,at vulputate vitae nisl aenean,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,89.8,2
+246,a ipsum,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus,58.31,3
+247,posuere cubilia,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,52.2,3
+248,maecenas pulvinar lobortis est,ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,41.03,4
+249,habitasse platea dictumst,hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,29.46,9
+250,orci vehicula condimentum curabitur,etiam,66.28,10
+251,facilisi,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,14.77,9
+252,penatibus et magnis dis,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam,15.54,10
+253,luctus et ultrices posuere cubilia,morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh,41.15,8
+254,erat,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis,29.03,4
+255,ut at,in faucibus,85.01,10
+256,id justo sit,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus,1.78,1
+257,feugiat non pretium,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,34.63,5
+258,velit,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a,68.57,6
+259,etiam faucibus cursus,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,97.89,2
+260,nibh fusce,enim sit amet,37.93,10
+261,ligula,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,51.28,10
+262,quisque id,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit,96.14,5
+263,lorem id ligula suspendisse,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,32.16,10
+264,dictumst maecenas,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,36.06,6
+265,neque,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor,77.3,4
+266,duis,accumsan,17.61,3
+267,quis justo maecenas rhoncus,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci,84.92,9
+268,feugiat et,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in,81.87,5
+269,eget orci vehicula condimentum,libero,54.63,2
+270,magna vulputate,turpis adipiscing,92.19,2
+271,eget,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in,23.98,9
+272,id justo sit amet sapien,proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,23.04,4
+273,platea,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra,76.08,9
+274,ante ipsum,nulla ultrices aliquet maecenas leo odio condimentum id,2.08,3
+275,quis libero nullam sit amet,cras non velit nec,64.94,7
+276,accumsan felis ut,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam,41.97,10
+277,ultrices enim lorem,faucibus orci luctus et ultrices posuere cubilia,26.62,6
+278,vel,porttitor id consequat in consequat ut nulla sed accumsan,73.26,4
+279,vivamus vestibulum sagittis sapien cum,tortor eu,83.03,8
+280,pellentesque ultrices,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,82.47,2
+281,proin eu mi nulla ac,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,35.24,8
+282,in hac habitasse platea dictumst,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,86.96,1
+283,tortor eu,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,17.34,10
+284,eget tempus vel,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis,93.39,5
+285,ligula,phasellus id sapien,38.6,3
+286,massa,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,87.3,7
+287,amet erat nulla,ut erat curabitur gravida nisi at nibh in hac,7.11,8
+288,adipiscing elit proin interdum,ipsum primis in faucibus orci luctus et ultrices,99.39,8
+289,cubilia curae mauris viverra diam,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus,37.28,5
+290,in eleifend quam a,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit,45.84,6
+291,ante vivamus tortor duis mattis,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,17.15,4
+292,sit amet consectetuer adipiscing,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim,71.47,2
+293,pretium quis lectus,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla,24.13,4
+294,est lacinia nisi venenatis tristique,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero,66.79,9
+295,ut suscipit a,mattis egestas metus aenean,34.47,9
+296,leo odio condimentum id luctus,nisi volutpat eleifend,44.37,10
+297,massa volutpat convallis,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor,91.81,9
+298,quis justo maecenas rhoncus,sed,5.26,1
+299,in magna bibendum imperdiet,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam,56.3,10
+300,ut mauris eget massa,id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,35.32,3
+301,sollicitudin,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula,32.51,4
+302,lacus purus aliquet,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo,57.02,1
+303,sagittis sapien,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis,59.54,1
+304,ultrices posuere cubilia curae,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat,78.2,10
+305,vel pede morbi,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac,38.56,2
+306,justo,nunc proin at turpis a pede posuere nonummy integer non,56.21,2
+307,nisl duis ac,bibendum imperdiet nullam orci,52.18,3
+308,cubilia,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,26.75,5
+309,convallis tortor risus,lacinia,58.42,8
+310,ut odio cras mi,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis,57.81,7
+311,ac diam cras pellentesque volutpat,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla,29.63,7
+312,sagittis,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus,12.42,4
+313,nulla ac enim in tempor,habitasse,50.68,2
+314,felis,leo odio porttitor,31.9,8
+315,id massa,tincidunt eget tempus vel pede morbi porttitor lorem id,66.87,9
+316,nascetur ridiculus mus,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue,91.46,4
+317,integer ac leo pellentesque,ipsum primis in faucibus orci luctus et,90.05,4
+318,curabitur,pellentesque quisque porta volutpat erat,52.23,4
+319,fusce consequat nulla nisl nunc,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros,10.83,10
+320,urna,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor,26.98,5
+321,nam congue risus,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra,6.41,3
+322,magna bibendum imperdiet nullam orci,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,30.38,10
+323,quis lectus,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,80.01,7
+324,vestibulum velit,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,23.32,8
+325,viverra pede ac diam,suscipit,27.38,3
+326,pede libero quis,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum,9.74,10
+327,vulputate luctus cum,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel,11.66,8
+328,quis,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis,15.79,9
+329,augue quam sollicitudin vitae,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis,68.14,2
+330,phasellus in felis,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea,2.77,5
+331,volutpat eleifend,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,86.02,4
+332,vitae quam,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor,67.37,1
+333,dapibus at diam nam,pede libero quis orci nullam molestie nibh in lectus,7.65,6
+334,dui luctus rutrum nulla,quisque arcu libero rutrum ac lobortis vel,11.95,3
+335,natoque,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,70.48,1
+336,aenean sit amet justo,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus,59.64,8
+337,augue vestibulum,erat eros viverra eget congue eget,91.5,1
+338,et,amet,78.18,10
+339,lectus suspendisse potenti in eleifend,cursus vestibulum proin eu mi,8.71,2
+340,vestibulum ac est,eleifend quam a odio in hac habitasse platea dictumst,54.99,3
+341,et ultrices posuere,tortor duis mattis egestas,20.94,10
+342,diam in magna bibendum imperdiet,rhoncus dui vel sem,70.72,6
+343,aliquam quis turpis,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum,59.32,5
+344,justo,duis at velit eu est congue elementum in,16.09,5
+345,eget nunc donec quis orci,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi,21.89,1
+346,venenatis,id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque,50.73,1
+347,lectus pellentesque,diam nam,59.91,3
+348,amet consectetuer,orci luctus et,31.1,6
+349,maecenas ut massa,imperdiet nullam orci,83.65,8
+350,eget congue eget semper rutrum,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet,23.14,7
+351,vel est donec odio,curabitur convallis duis,14.52,8
+352,purus phasellus,nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit,55.27,4
+353,ipsum integer a,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis,27.93,1
+354,feugiat non pretium quis lectus,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,37.53,1
+355,vestibulum,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,50.86,6
+356,sem duis aliquam,donec,38.13,10
+357,nunc donec quis,donec diam neque vestibulum eget vulputate,81.68,8
+358,aliquet,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet,92.87,10
+359,vivamus vestibulum sagittis sapien cum,primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat,45.69,7
+360,nunc donec quis,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum,52.15,2
+361,pede morbi porttitor,lorem ipsum dolor sit amet consectetuer adipiscing,77.43,6
+362,magnis dis parturient,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,22.06,1
+363,in lacus curabitur at,donec posuere metus vitae ipsum aliquam non,93.1,10
+364,sem sed sagittis nam congue,vel,65.7,8
+365,varius ut blandit,id turpis integer aliquet massa id lobortis convallis tortor,66.63,2
+366,massa donec dapibus,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id,52.89,4
+367,id massa id nisl venenatis,blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer,77.21,8
+368,morbi quis tortor id nulla,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget,47.93,6
+369,in magna bibendum,porttitor,55.39,9
+370,in magna,luctus nec molestie sed,29.39,1
+371,ut,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien,3.08,6
+372,posuere nonummy integer non,maecenas leo odio condimentum,74.93,7
+373,orci eget orci,magna bibendum imperdiet nullam orci pede venenatis non,19.1,6
+374,lacinia,felis ut at dolor,10.57,2
+375,erat volutpat in congue etiam,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet,66.27,1
+376,ipsum primis in faucibus,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus,92.57,9
+377,habitasse platea dictumst,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in,22.32,6
+378,sit amet,ante ipsum primis in faucibus orci luctus et ultrices,63.88,8
+379,nisl venenatis lacinia,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi,18.12,1
+380,cubilia curae duis faucibus accumsan,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,41.23,3
+381,in quis justo,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,60.11,7
+382,suspendisse potenti in eleifend,elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget,87.36,6
+383,eget orci vehicula condimentum,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel,73.67,6
+384,at velit vivamus vel,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,90.98,10
+385,morbi odio,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,2.37,2
+386,id ligula suspendisse,primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo,54.85,4
+387,lobortis sapien sapien,ac est,28.14,7
+388,libero nullam,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,13.53,1
+389,mus vivamus vestibulum,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo,41.19,1
+390,nibh in hac habitasse,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,86.17,10
+391,neque,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,49.57,8
+392,sapien varius,odio odio elementum eu interdum eu tincidunt,30.39,2
+393,vestibulum quam,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,58.25,8
+394,integer pede justo lacinia eget,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo,93.18,5
+395,tristique tortor eu pede,ultrices mattis odio,24.33,10
+396,sit amet justo,odio elementum eu,98.78,4
+397,luctus et,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit,71.33,7
+398,lorem,turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,7.32,2
+399,venenatis lacinia aenean sit,est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est,87.16,3
+400,tortor risus,tristique in tempus sit amet sem,84.68,10
+401,id sapien in sapien iaculis,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,36.74,7
+402,primis in faucibus orci,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel,32.02,9
+403,integer tincidunt ante vel,libero ut massa,20.33,7
+404,in,quis odio consequat varius integer ac leo pellentesque ultrices,92.2,1
+405,luctus nec,ut at dolor quis,25.64,5
+406,montes,duis,55.9,3
+407,aenean lectus pellentesque eget,quis libero nullam,52.66,7
+408,pede,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,53.48,10
+409,vitae nisl aenean,posuere,45.8,6
+410,justo eu massa donec dapibus,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non,17.62,1
+411,donec ut mauris eget massa,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est,52.55,2
+412,dapibus augue vel accumsan,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor,86.52,2
+413,sollicitudin vitae consectetuer eget rutrum,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,70.65,7
+414,diam id ornare,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,30.49,6
+415,non,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl,28.71,6
+416,leo odio porttitor id consequat,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat,83.39,6
+417,in hac habitasse platea dictumst,integer ac leo,7.42,10
+418,mattis,sociis natoque penatibus et magnis dis parturient montes nascetur,53.35,3
+419,nisi volutpat eleifend donec ut,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,15.14,6
+420,mus,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris,21.94,1
+421,convallis,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,88.72,8
+422,nisi nam,varius nulla facilisi cras non velit nec nisi vulputate,41.25,3
+423,amet erat,lacinia sapien quis libero nullam sit,26.28,9
+424,nisi nam ultrices libero non,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,75.73,2
+425,lectus in est risus auctor,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque,77.99,4
+426,erat vestibulum,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,38.83,7
+427,praesent blandit nam nulla,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in,64.76,8
+428,pellentesque volutpat,nunc,23.18,6
+429,dui proin leo odio porttitor,sapien non mi integer ac neque,56.89,7
+430,arcu sed augue aliquam erat,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,44.84,5
+431,tempor convallis nulla neque libero,pellentesque at nulla suspendisse potenti cras in purus eu,81.52,8
+432,odio curabitur convallis,cubilia curae nulla dapibus dolor vel est,88.05,10
+433,consectetuer eget rutrum at,amet nunc viverra,69.35,5
+434,eros,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros,57.04,6
+435,ac tellus semper,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,4.78,1
+436,ipsum primis in,nibh ligula nec sem duis aliquam convallis nunc proin at,77.17,6
+437,vestibulum proin eu mi,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi,2.07,8
+438,eu orci mauris,duis mattis egestas metus,76.6,1
+439,nec condimentum neque,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,52.69,10
+440,in quis justo,tristique fusce congue diam id,36.9,1
+441,dui proin leo,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit,29.6,4
+442,felis fusce posuere felis,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat,93.69,9
+443,purus aliquet,a feugiat et eros vestibulum ac est lacinia nisi venenatis,73.23,9
+444,at,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,89.42,7
+445,felis fusce posuere felis,augue vestibulum,47.39,2
+446,molestie lorem,justo eu massa donec dapibus duis at velit eu est congue,83.43,5
+447,nulla integer,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,24.39,2
+448,tortor id,aliquam erat volutpat in congue etiam justo etiam,67.98,8
+449,sem,venenatis non sodales sed tincidunt eu felis fusce posuere felis,82.6,8
+450,odio elementum eu,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum,9.18,1
+451,quisque arcu libero rutrum,luctus et ultrices posuere cubilia curae nulla dapibus,60.85,4
+452,nullam orci pede,potenti cras in purus eu,2.2,6
+453,dapibus nulla suscipit,at nulla suspendisse potenti cras in purus,21.31,7
+454,justo,mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,53.95,2
+455,hac habitasse,a pede posuere,58.39,2
+456,eget massa tempor convallis nulla,dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,13.98,7
+457,est,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit,45.85,2
+458,libero non mattis pulvinar,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend,5.01,4
+459,nibh,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis,18.78,6
+460,erat vestibulum,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec,37.3,6
+461,ipsum primis in,vestibulum ante ipsum primis in faucibus orci,65.97,4
+462,odio,magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,12.56,1
+463,et commodo,enim,33.5,4
+464,cras mi pede,turpis enim,7.36,4
+465,vitae,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non,11.25,10
+466,ligula,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,81.48,7
+467,hendrerit at vulputate vitae,nulla elit ac,65.24,6
+468,mauris laoreet,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed,30.09,1
+469,hac habitasse platea dictumst maecenas,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis,28.54,10
+470,iaculis diam erat fermentum justo,ipsum primis in faucibus orci,8.05,5
+471,enim in tempor turpis nec,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare,18.95,4
+472,justo etiam pretium,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula,16.44,1
+473,pulvinar lobortis est phasellus sit,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,1.52,6
+474,metus vitae,orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,34.57,9
+475,libero nullam,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,5.62,2
+476,dolor sit amet consectetuer adipiscing,enim blandit mi in porttitor pede justo eu,32.58,1
+477,nulla tempus vivamus,id nulla ultrices aliquet maecenas leo odio condimentum id,56.47,2
+478,nisl aenean lectus pellentesque,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,64.94,8
+479,vel dapibus at diam,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac,20.38,10
+480,in sapien iaculis,volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse,35.66,3
+481,vulputate nonummy maecenas tincidunt lacus,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris,23.19,1
+482,amet,lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum,43.77,8
+483,ipsum primis in faucibus,interdum eu tincidunt in leo,40.72,4
+484,turpis,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,27.08,10
+485,consectetuer adipiscing elit,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit,11.3,10
+486,quam sollicitudin,gravida sem praesent id massa id nisl venenatis,63.42,2
+487,rutrum,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi,69.73,7
+488,erat eros viverra eget,vivamus tortor duis mattis egestas,63.49,10
+489,id massa id nisl,vitae consectetuer eget rutrum at lorem,31.31,9
+490,tortor duis mattis,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu,67.27,9
+491,tortor sollicitudin mi sit,mauris,24.55,6
+492,porttitor,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum,9.25,2
+493,tempor,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis,92.25,8
+494,nulla,ut massa quis augue luctus tincidunt nulla mollis,83.28,8
+495,eu orci mauris lacinia,blandit,37.28,6
+496,curabitur convallis,ac est lacinia nisi venenatis tristique fusce congue diam,13.44,10
+497,amet,eu sapien cursus vestibulum proin eu mi nulla ac enim in,50.33,8
+498,consequat,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla,77.68,8
+499,odio curabitur convallis duis,sit amet justo morbi ut odio cras mi pede malesuada in,64.64,9
+500,orci,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in,28.01,4
+501,dolor sit amet consectetuer,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at,56.29,10
+502,sapien cursus vestibulum,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat,42.91,2
+503,ridiculus mus vivamus vestibulum,at velit,94.77,6
+504,a,sapien dignissim vestibulum vestibulum ante ipsum primis in,98.09,8
+505,elementum pellentesque quisque porta volutpat,cras pellentesque volutpat dui maecenas,10.54,7
+506,sapien dignissim vestibulum,vitae nisl aenean lectus pellentesque eget nunc donec,26.3,4
+507,phasellus in felis donec,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus,52.06,6
+508,parturient montes nascetur ridiculus mus,blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur,5.86,3
+509,faucibus cursus urna,sit amet lobortis sapien sapien,6.2,4
+510,justo sollicitudin,turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,66.72,4
+511,odio,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,25.54,2
+512,vel dapibus at,amet turpis,52.08,2
+513,dui vel sem sed,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,6.23,7
+514,metus,primis in faucibus orci luctus et ultrices posuere cubilia curae,63.76,9
+515,vestibulum ante ipsum primis,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,58.12,8
+516,in leo,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,40.4,3
+517,eu,suscipit nulla elit ac,88.08,1
+518,mi pede,eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in,83.84,1
+519,cubilia curae,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit,47.62,9
+520,suscipit ligula in,pede,22.53,1
+521,mi nulla,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,34.15,7
+522,est donec odio,lacinia sapien quis,58.0,8
+523,magna ac consequat,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices,55.84,1
+524,ut blandit,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl,22.12,5
+525,porta volutpat erat quisque erat,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla,30.07,6
+526,vulputate elementum nullam varius,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien,44.51,10
+527,orci luctus et ultrices,eget eros elementum pellentesque quisque,66.81,4
+528,suspendisse,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea,16.7,10
+529,eros viverra eget congue,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,38.76,10
+530,justo,sodales sed tincidunt,75.66,6
+531,amet,mauris non ligula pellentesque,66.69,9
+532,erat tortor sollicitudin mi sit,tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,43.24,2
+533,nunc donec quis orci eget,aliquam convallis nunc proin at turpis a pede posuere nonummy,63.67,4
+534,vitae nisi nam,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien,51.49,8
+535,nibh in,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor,97.03,5
+536,massa donec,phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla,79.29,1
+537,aenean sit amet,lacus morbi quis tortor id nulla ultrices,76.28,6
+538,augue vel accumsan tellus nisi,elementum in hac,96.31,4
+539,dapibus dolor,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et,96.66,3
+540,quis orci eget orci vehicula,duis bibendum morbi,36.67,4
+541,laoreet ut rhoncus aliquet,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel,19.82,7
+542,pretium iaculis justo,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac,68.34,4
+543,enim blandit mi in porttitor,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus,37.37,7
+544,dictumst maecenas ut massa,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie,56.71,10
+545,libero,pede ac diam cras pellentesque volutpat,80.61,6
+546,cubilia curae nulla dapibus dolor,sem duis aliquam convallis nunc proin at,93.15,3
+547,maecenas tincidunt lacus,lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam,90.02,7
+548,leo odio porttitor,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula,20.52,2
+549,vitae nisl aenean,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est,94.42,9
+550,risus,pharetra,77.37,3
+551,erat tortor sollicitudin mi sit,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce,35.14,7
+552,diam in magna bibendum,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,87.95,10
+553,vestibulum eget,morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,44.07,2
+554,nulla pede ullamcorper augue,eget semper rutrum nulla nunc,95.04,1
+555,nulla suscipit ligula in lacus,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue,20.83,8
+556,tortor duis mattis egestas metus,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,45.23,8
+557,quis,accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo,28.12,9
+558,tristique fusce congue,amet lobortis sapien sapien non mi,6.31,1
+559,leo odio condimentum id luctus,dis,90.87,10
+560,phasellus id,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc,33.17,8
+561,dui vel nisl,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer,12.03,4
+562,velit id pretium iaculis,neque duis bibendum morbi non quam nec,11.51,8
+563,diam,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,22.67,2
+564,ante,dui proin leo odio porttitor id consequat,5.45,4
+565,rutrum at lorem integer,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus,99.85,4
+566,est lacinia nisi venenatis,augue vestibulum rutrum rutrum neque,55.78,7
+567,lorem,vivamus vel nulla eget eros elementum,90.13,5
+568,est,eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,61.05,3
+569,ornare imperdiet sapien urna pretium,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,70.43,8
+570,sem sed sagittis nam congue,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor,19.38,2
+571,consectetuer adipiscing elit proin interdum,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,23.84,4
+572,nunc nisl duis bibendum felis,ante ipsum,97.06,8
+573,fringilla rhoncus,mi pede malesuada in imperdiet et commodo,78.96,6
+574,duis mattis,mauris sit amet eros suspendisse accumsan tortor quis turpis sed,2.57,4
+575,nunc viverra,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id,50.97,6
+576,cursus urna ut tellus nulla,justo,24.38,2
+577,in eleifend quam a odio,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit,56.77,8
+578,at turpis donec posuere metus,a pede posuere nonummy integer non velit donec diam neque vestibulum eget,59.31,10
+579,cum,tortor,73.15,10
+580,lacinia nisi venenatis tristique,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna,28.4,8
+581,pede,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,3.0,2
+582,sit amet eros suspendisse,nulla nisl nunc nisl,24.1,9
+583,rhoncus aliquam lacus morbi,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis,94.6,3
+584,nisl nunc rhoncus dui vel,venenatis tristique fusce congue,1.74,4
+585,euismod scelerisque,faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy,79.41,9
+586,quam turpis adipiscing lorem vitae,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci,22.72,10
+587,fusce posuere felis,convallis,22.94,5
+588,lectus,maecenas tincidunt lacus at,72.46,2
+589,cubilia curae mauris viverra,ligula sit amet eleifend pede libero,83.12,1
+590,orci luctus et ultrices,tortor sollicitudin mi sit amet lobortis sapien sapien non mi,84.91,2
+591,volutpat,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,20.88,9
+592,mi pede malesuada,sagittis nam congue risus semper porta volutpat quam pede lobortis,55.41,5
+593,suscipit ligula,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,10.63,5
+594,rutrum at lorem integer tincidunt,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,58.82,5
+595,curabitur at ipsum,id,17.16,3
+596,amet consectetuer adipiscing,mauris vulputate elementum nullam varius,35.68,8
+597,id nisl,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,20.16,6
+598,lacus,nullam orci pede,92.01,9
+599,condimentum neque sapien,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices,99.55,8
+600,erat fermentum justo,eget orci vehicula condimentum curabitur,27.34,1
+601,massa volutpat convallis morbi odio,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,90.31,4
+602,sapien arcu sed augue,in faucibus,8.89,5
+603,adipiscing elit proin risus,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque,21.85,4
+604,lacinia,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,99.69,10
+605,congue risus semper porta,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui,34.58,7
+606,ultrices phasellus,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus,49.27,6
+607,curae duis faucibus accumsan odio,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,97.63,4
+608,sed sagittis,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,54.92,6
+609,ante ipsum primis,tempor convallis nulla neque libero convallis eget eleifend luctus,24.33,4
+610,vel,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis,35.82,8
+611,elit proin,quis odio consequat,53.53,4
+612,lobortis,a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices,43.9,7
+613,at,augue a suscipit nulla elit ac nulla sed vel enim,71.31,8
+614,rutrum nulla tellus,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices,77.68,10
+615,maecenas leo odio,id lobortis convallis tortor risus dapibus augue vel,93.99,3
+616,accumsan,nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor,54.98,9
+617,ipsum dolor sit,hendrerit at vulputate vitae nisl aenean lectus,80.89,3
+618,ut nunc vestibulum ante,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque,91.71,1
+619,et commodo vulputate justo in,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,56.86,5
+620,pellentesque volutpat dui,vehicula condimentum curabitur,6.27,8
+621,semper,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin,25.63,9
+622,duis faucibus accumsan odio,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede,72.61,3
+623,donec odio justo sollicitudin,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis,51.32,3
+624,aliquet at,enim,70.12,1
+625,viverra pede ac,sit,86.11,2
+626,mauris non ligula pellentesque ultrices,justo morbi ut odio cras mi pede malesuada in,84.04,1
+627,arcu sed,risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl,97.46,9
+628,est,dis parturient montes nascetur,7.26,6
+629,at dolor quis odio consequat,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,81.29,1
+630,auctor sed tristique,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,63.78,5
+631,elit,nibh in,25.04,3
+632,aliquet pulvinar sed,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,28.48,3
+633,nascetur ridiculus mus,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,39.97,6
+634,odio elementum eu,ridiculus mus etiam vel augue vestibulum,82.32,6
+635,est,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula,8.29,10
+636,nulla,integer aliquet massa id lobortis convallis tortor,75.47,7
+637,mauris eget massa,ac nibh fusce lacus purus aliquet at feugiat non pretium,6.61,3
+638,porta volutpat erat quisque erat,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,95.55,3
+639,luctus et ultrices posuere,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in,9.15,5
+640,sodales scelerisque mauris,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet,64.43,10
+641,fusce posuere,ut at dolor quis,18.79,8
+642,suspendisse potenti in eleifend,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt,55.18,4
+643,amet sapien dignissim,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,31.16,5
+644,duis,dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat,89.27,5
+645,odio porttitor id,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,11.93,10
+646,ultrices phasellus id sapien in,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius,18.12,3
+647,ante,turpis sed,47.41,8
+648,vestibulum velit id,nunc,77.73,10
+649,volutpat eleifend donec ut dolor,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra,73.54,4
+650,sed augue aliquam,lorem vitae mattis nibh ligula nec sem,47.02,3
+651,aenean lectus,quam pede lobortis ligula sit amet eleifend,28.17,7
+652,amet,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,49.09,10
+653,nibh in hac habitasse,nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis,20.94,6
+654,luctus et,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique,40.43,8
+655,adipiscing molestie hendrerit,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis,90.69,7
+656,turpis eget,vulputate ut ultrices,97.65,5
+657,vel accumsan tellus nisi,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue,96.15,7
+658,purus aliquet,ipsum integer a nibh in quis justo maecenas rhoncus,30.8,9
+659,pellentesque at,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae,17.11,6
+660,turpis,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in,87.49,9
+661,tristique tortor,quam suspendisse potenti nullam porttitor lacus at,18.39,10
+662,lacus morbi quis tortor,fusce posuere felis sed lacus morbi sem mauris,56.66,6
+663,enim in,orci luctus,62.06,1
+664,lorem,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy,77.63,8
+665,quis odio,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at,37.72,10
+666,nulla,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,39.31,7
+667,tempor turpis nec euismod scelerisque,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi,78.95,5
+668,elementum,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,48.76,3
+669,leo odio condimentum id,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo,58.57,8
+670,luctus tincidunt,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,79.75,3
+671,ornare,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,43.0,2
+672,non sodales sed,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,60.82,3
+673,nulla,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,48.7,8
+674,diam id ornare imperdiet,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget,3.57,9
+675,sociis natoque,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut,20.65,4
+676,venenatis lacinia aenean sit,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,73.33,5
+677,donec dapibus duis at,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,13.27,4
+678,lectus vestibulum,donec pharetra magna vestibulum aliquet,6.77,8
+679,bibendum felis sed interdum,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes,49.59,8
+680,hac habitasse,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,2.62,7
+681,morbi quis tortor id nulla,sapien sapien non mi,30.12,8
+682,vehicula condimentum,nulla eget,58.17,6
+683,volutpat dui maecenas tristique,purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,48.86,2
+684,sapien a libero nam dui,arcu,32.12,2
+685,quis turpis eget elit sodales,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue,43.08,3
+686,posuere,sit amet lobortis,6.4,9
+687,lacinia nisi venenatis,non sodales sed tincidunt eu,36.24,10
+688,orci nullam,ut odio cras mi pede malesuada in imperdiet et commodo,86.66,3
+689,porta,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra,58.86,8
+690,vestibulum ante,ultricies eu nibh,5.71,4
+691,fusce congue diam,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis,5.53,8
+692,aliquet pulvinar,condimentum id luctus nec molestie sed justo,73.41,2
+693,pede justo lacinia,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,91.31,7
+694,hac habitasse platea dictumst,congue eget semper rutrum nulla nunc purus phasellus in felis,84.68,9
+695,sed nisl nunc rhoncus dui,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,25.78,1
+696,purus aliquet at,etiam justo etiam pretium,64.22,9
+697,morbi,neque sapien placerat ante nulla justo aliquam,12.15,9
+698,in tempor,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula,90.1,7
+699,in,est,6.55,4
+700,vestibulum ante ipsum primis in,sapien,9.63,4
+701,ridiculus mus etiam vel,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere,4.91,7
+702,sociis natoque penatibus,nisl duis bibendum felis sed interdum venenatis turpis,25.32,9
+703,nulla,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus,42.28,8
+704,nulla elit,ut suscipit a feugiat,13.04,1
+705,in faucibus orci luctus,hac habitasse platea dictumst aliquam augue quam sollicitudin,61.46,9
+706,duis,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce,97.29,8
+707,sapien arcu sed augue aliquam,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,48.61,8
+708,non,sagittis,37.4,9
+709,integer ac leo pellentesque,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,42.52,8
+710,ut ultrices vel augue vestibulum,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed,9.1,5
+711,condimentum neque,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non,88.45,4
+712,ultrices erat,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in,62.03,5
+713,tempus vel pede morbi,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci,33.8,2
+714,sit amet,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis,4.62,5
+715,et tempus,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut,63.18,1
+716,justo morbi ut odio cras,duis bibendum felis sed interdum venenatis turpis,74.97,10
+717,libero nam dui proin leo,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean,72.33,9
+718,ridiculus mus etiam vel,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,24.29,9
+719,sit amet turpis,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero,83.29,4
+720,ipsum dolor sit,lobortis vel dapibus at diam nam,64.97,7
+721,eu felis,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut,30.17,1
+722,eget vulputate,ultrices,43.77,9
+723,cubilia curae duis faucibus,justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,90.06,3
+724,aliquam non mauris,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus,3.13,9
+725,mauris laoreet ut rhoncus,varius nulla facilisi cras non,46.35,9
+726,pede lobortis ligula sit amet,natoque penatibus et magnis dis parturient montes nascetur ridiculus,24.91,5
+727,tincidunt,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros,32.42,9
+728,pulvinar lobortis est phasellus sit,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,26.79,4
+729,sapien cursus vestibulum proin,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam,99.43,4
+730,magna vulputate luctus cum,nisi vulputate nonummy maecenas tincidunt lacus at,62.67,6
+731,eleifend pede libero quis,ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,14.27,4
+732,id lobortis convallis,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in,59.26,6
+733,mattis egestas,dui luctus rutrum nulla tellus in,85.12,7
+734,nulla quisque,in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti,96.08,1
+735,dapibus dolor vel est,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus,23.5,4
+736,lectus,interdum venenatis turpis enim blandit mi in porttitor pede,91.84,1
+737,dui proin leo odio,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,8.14,8
+738,tellus,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida,5.8,7
+739,malesuada in imperdiet et,libero convallis eget eleifend luctus ultricies eu nibh,44.23,10
+740,interdum,velit vivamus vel nulla eget eros elementum pellentesque quisque,15.86,6
+741,nonummy integer non velit donec,velit eu est congue,57.72,4
+742,non lectus,elit proin,41.03,7
+743,primis in faucibus orci luctus,tristique,23.4,1
+744,aliquam convallis nunc proin,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,55.69,7
+745,augue vestibulum ante ipsum,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,39.36,6
+746,tortor quis turpis,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in,52.2,1
+747,sit amet,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,28.27,1
+748,ut,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,60.18,10
+749,cras non velit nec,donec posuere metus vitae ipsum aliquam non mauris morbi,52.83,9
+750,vel augue,in felis,78.91,6
+751,donec dapibus duis at,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna,81.11,8
+752,ut tellus,diam cras pellentesque volutpat dui maecenas tristique est,48.95,7
+753,rutrum,orci eget orci vehicula condimentum curabitur in libero ut,34.56,7
+754,viverra eget congue,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis,1.6,5
+755,purus,sapien arcu sed,43.31,10
+756,dolor sit amet,vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,77.51,1
+757,duis at velit,non interdum in ante vestibulum ante ipsum primis in faucibus orci,17.08,3
+758,aliquam erat volutpat in,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,83.4,8
+759,cursus,semper interdum mauris,73.74,9
+760,odio cras mi,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque,75.45,6
+761,eu,enim lorem ipsum dolor sit amet consectetuer adipiscing elit,40.65,6
+762,venenatis non sodales,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis,80.51,2
+763,sapien varius ut blandit non,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,50.0,5
+764,platea dictumst morbi,purus phasellus,61.32,4
+765,enim lorem ipsum,gravida nisi at nibh in hac habitasse platea,75.94,8
+766,sit amet,odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis,42.94,2
+767,tortor,nibh,2.43,7
+768,diam cras pellentesque volutpat dui,elit proin risus,70.72,4
+769,ut ultrices,aliquet massa id lobortis convallis tortor,31.77,8
+770,proin,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend,44.21,5
+771,bibendum,pretium quis lectus suspendisse potenti,72.37,7
+772,bibendum,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,30.5,9
+773,faucibus orci luctus et ultrices,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,67.83,2
+774,nulla,pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque,89.6,7
+775,diam cras,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris,99.75,3
+776,in,id ligula suspendisse ornare consequat lectus in est risus auctor,93.97,2
+777,quam sapien,consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,96.08,1
+778,ipsum,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,14.87,4
+779,mi in porttitor,risus semper porta volutpat quam pede lobortis ligula sit,90.63,9
+780,risus praesent lectus,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum,99.98,2
+781,amet eleifend pede libero quis,vel est donec odio justo sollicitudin ut suscipit a,81.59,10
+782,vel sem sed,euismod,41.47,2
+783,mauris sit amet eros suspendisse,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante,17.64,6
+784,aliquam erat,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac,16.13,10
+785,at feugiat non pretium quis,in,65.1,2
+786,velit vivamus vel,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,19.52,7
+787,mauris,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis,90.41,5
+788,non sodales sed tincidunt,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,63.9,10
+789,metus arcu,sapien quis libero nullam sit amet turpis elementum,11.84,6
+790,sed ante vivamus,suscipit ligula in lacus curabitur at,14.49,8
+791,laoreet ut rhoncus aliquet,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,83.43,4
+792,sit amet eleifend pede,felis donec semper sapien a libero nam dui proin,18.13,6
+793,nam dui proin leo,eget tempus vel pede morbi porttitor lorem id ligula suspendisse,13.45,7
+794,dapibus at diam nam tristique,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in,21.68,8
+795,curae nulla dapibus dolor,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,16.89,5
+796,semper rutrum nulla nunc,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non,67.12,4
+797,tellus,tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,51.23,6
+798,lacinia aenean sit amet justo,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,35.03,7
+799,vel augue,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut,19.68,5
+800,fusce lacus purus,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam,45.34,9
+801,blandit lacinia erat,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,37.6,7
+802,ut at dolor quis,augue a suscipit nulla elit ac nulla sed vel,8.74,3
+803,dictumst aliquam augue,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed,68.73,7
+804,justo maecenas rhoncus aliquam lacus,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,81.96,4
+805,lacus,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae,32.87,5
+806,non mattis pulvinar nulla,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus,4.89,6
+807,in libero ut massa,vitae,45.04,6
+808,magna bibendum imperdiet nullam orci,sit,46.92,9
+809,semper,nulla pede ullamcorper augue,27.25,3
+810,turpis elementum ligula,sem fusce consequat,51.42,9
+811,sit amet erat,pulvinar lobortis est phasellus sit amet erat,67.46,1
+812,in faucibus orci,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor,50.55,6
+813,est phasellus,at,15.47,9
+814,penatibus et magnis,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit,96.86,4
+815,non mi,natoque,79.44,10
+816,sed nisl nunc rhoncus dui,ut ultrices vel augue vestibulum ante ipsum primis,71.97,8
+817,nisl,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum,74.39,8
+818,hendrerit,porttitor pede justo eu massa donec dapibus duis at velit,55.45,3
+819,magnis dis parturient,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti,56.44,4
+820,enim,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,5.95,10
+821,quam,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien,99.7,6
+822,in faucibus orci,pellentesque ultrices mattis odio donec vitae nisi nam,89.83,2
+823,fermentum justo nec,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque,57.82,1
+824,felis fusce posuere felis sed,arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc,64.92,4
+825,rhoncus sed vestibulum sit amet,justo nec condimentum neque sapien placerat ante,96.11,9
+826,justo nec condimentum neque sapien,lacus curabitur at ipsum ac tellus,86.35,3
+827,volutpat in,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,97.73,10
+828,rhoncus mauris enim,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,36.28,3
+829,nulla sed,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna,39.73,7
+830,pharetra magna,condimentum curabitur in libero ut massa volutpat convallis,80.22,3
+831,vel ipsum praesent blandit,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra,82.45,2
+832,faucibus orci luctus et ultrices,id,90.18,6
+833,in tempus sit amet sem,blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam,42.11,8
+834,ante vestibulum ante,ut erat id,13.58,7
+835,eget vulputate ut,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,28.69,6
+836,sit amet sapien,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae,78.45,2
+837,viverra,vestibulum quam sapien varius ut blandit non,19.28,3
+838,nulla,in magna bibendum imperdiet nullam orci pede,50.35,6
+839,est,amet,18.13,3
+840,nulla ut,praesent blandit,20.75,5
+841,non,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,54.17,5
+842,sit,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,71.22,5
+843,nulla ac enim,hac habitasse platea,40.45,5
+844,nisi volutpat eleifend donec ut,semper est quam,79.74,2
+845,est lacinia nisi,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis,41.68,9
+846,erat eros viverra eget,eget vulputate ut ultrices vel augue,85.75,4
+847,nibh ligula nec,et,52.23,7
+848,vivamus metus arcu adipiscing molestie,mollis molestie lorem quisque ut erat curabitur,36.62,8
+849,tempus,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,34.04,5
+850,nec nisi volutpat eleifend donec,imperdiet nullam orci,20.2,1
+851,interdum mauris ullamcorper purus sit,erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget,90.07,4
+852,orci nullam molestie,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,31.29,9
+853,sit amet eros,at turpis a pede posuere nonummy integer non velit donec diam neque,39.47,6
+854,quam a odio in hac,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,50.16,4
+855,augue a suscipit nulla,vel ipsum praesent blandit lacinia erat vestibulum,27.14,5
+856,eros,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,85.89,3
+857,consequat morbi,pharetra magna ac consequat metus,44.54,3
+858,hac habitasse platea dictumst morbi,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum,91.37,8
+859,nec molestie sed justo,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,53.03,5
+860,amet cursus,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,40.5,8
+861,vel nisl duis ac nibh,lectus pellentesque at nulla,38.29,4
+862,porttitor pede,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat,24.73,10
+863,integer a nibh,in faucibus orci luctus et ultrices posuere,99.41,9
+864,lacus,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,38.46,9
+865,dolor vel,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci,24.92,2
+866,ante ipsum primis in,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis,37.03,10
+867,mattis nibh ligula nec sem,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam,79.02,4
+868,arcu,in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio,70.63,1
+869,tortor,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,64.99,1
+870,lacinia aenean,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis,84.27,10
+871,mauris enim leo rhoncus sed,est et tempus,28.94,6
+872,gravida sem praesent id,magnis dis parturient montes nascetur ridiculus,87.45,5
+873,quis turpis sed ante vivamus,pharetra magna ac consequat metus sapien ut nunc vestibulum ante,75.42,10
+874,mauris,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci,88.95,6
+875,duis,sed magna at nunc commodo placerat praesent blandit nam nulla,66.36,6
+876,vel est donec odio,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,9.51,3
+877,vestibulum,consequat ut nulla,71.25,2
+878,sapien a libero nam dui,pharetra magna ac consequat metus,58.39,8
+879,viverra eget congue eget semper,rhoncus mauris enim leo rhoncus sed,39.76,6
+880,mi nulla ac,a feugiat et eros vestibulum ac est lacinia,55.99,4
+881,fusce lacus purus aliquet,rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,92.13,7
+882,lacus at,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis,19.16,5
+883,sit,ullamcorper augue a suscipit nulla elit,70.37,2
+884,eleifend quam,cubilia curae,4.7,3
+885,at,vestibulum sed magna at,62.42,10
+886,erat eros viverra eget,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut,98.44,9
+887,primis in faucibus orci,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam,5.53,6
+888,hac habitasse platea dictumst,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in,77.72,3
+889,quis,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,27.55,10
+890,eget tincidunt eget,pharetra magna ac consequat metus sapien ut,62.81,2
+891,ante vivamus tortor,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,34.66,5
+892,maecenas,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut,3.42,4
+893,odio,semper rutrum nulla nunc purus phasellus in felis donec semper,98.78,1
+894,fringilla,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec,54.75,5
+895,molestie hendrerit,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,45.66,5
+896,tincidunt in,in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,94.88,2
+897,sem sed sagittis nam congue,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl,95.94,3
+898,aliquet at feugiat,et,80.26,1
+899,pharetra magna,blandit nam,86.46,8
+900,phasellus in,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,6.64,7
+901,in porttitor pede justo,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in,78.34,9
+902,tellus nulla ut erat,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl,89.09,6
+903,nulla sed vel enim,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim,60.24,9
+904,vel,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla,56.61,5
+905,purus sit,praesent id massa id nisl venenatis lacinia aenean sit amet justo,72.78,4
+906,mattis nibh ligula,nulla sed accumsan felis,57.28,9
+907,in faucibus,quis turpis,35.0,6
+908,amet cursus id turpis,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh,39.81,8
+909,sapien in sapien,primis in faucibus orci luctus et ultrices,67.76,10
+910,at nulla suspendisse,convallis,39.19,4
+911,montes nascetur ridiculus,adipiscing molestie,7.45,9
+912,nisl aenean lectus,posuere nonummy integer non velit donec,75.52,8
+913,nisl duis,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a,43.19,10
+914,feugiat et eros,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit,68.71,5
+915,primis,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,6.12,8
+916,consequat,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo,48.71,8
+917,duis aliquam,velit vivamus vel nulla eget eros elementum pellentesque quisque porta,81.62,6
+918,duis aliquam,vestibulum proin eu mi nulla ac,90.05,6
+919,mus vivamus,quam pharetra magna ac consequat metus sapien,42.56,8
+920,aliquet ultrices erat tortor sollicitudin,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci,18.71,8
+921,posuere metus vitae,eget nunc donec quis orci,12.88,1
+922,velit vivamus,massa donec dapibus duis at velit eu est congue elementum in hac habitasse,31.33,7
+923,nibh in lectus,rutrum nulla nunc purus phasellus in,77.83,2
+924,imperdiet et commodo vulputate,nec euismod scelerisque quam turpis adipiscing lorem vitae,18.63,8
+925,varius,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,69.84,8
+926,ultrices,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,74.88,6
+927,nulla integer,nascetur ridiculus mus etiam,41.89,9
+928,et commodo vulputate justo in,consectetuer adipiscing elit proin interdum mauris non,49.11,7
+929,ante,sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis,61.31,6
+930,id nisl venenatis,ultricies eu nibh quisque id justo sit amet,10.37,3
+931,lacus purus aliquet,pede ac diam,97.1,4
+932,vehicula condimentum curabitur in,sed lacus morbi sem mauris laoreet,57.44,8
+933,donec semper,venenatis lacinia aenean,29.7,5
+934,elementum pellentesque,sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at,87.52,3
+935,morbi vel,eget nunc donec quis orci,22.4,1
+936,diam in magna,ligula pellentesque ultrices phasellus id sapien in sapien iaculis,45.78,1
+937,convallis nunc proin at,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,4.49,4
+938,mi sit amet lobortis,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam,51.68,7
+939,varius,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non,12.61,3
+940,aliquam sit,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,24.58,1
+941,est lacinia,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc,76.26,9
+942,at velit eu,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a,47.29,1
+943,metus aenean,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum,8.52,7
+944,sit,massa donec dapibus duis at velit eu est congue,72.88,10
+945,felis sed interdum venenatis turpis,massa id nisl venenatis lacinia aenean sit amet justo,4.37,6
+946,lobortis,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra,4.81,10
+947,nam,consequat lectus in est risus auctor sed tristique in,89.19,8
+948,mauris,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,66.77,4
+949,proin leo odio porttitor,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,22.28,5
+950,donec dapibus duis,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien,66.85,10
+951,a odio,enim leo rhoncus sed vestibulum sit amet,22.5,8
+952,fusce congue diam id,quisque porta volutpat erat quisque,25.77,9
+953,eu massa donec dapibus duis,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer,87.7,9
+954,eget rutrum,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam,53.43,7
+955,ultrices posuere,sit amet turpis elementum ligula vehicula consequat,49.18,6
+956,id lobortis convallis,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,30.2,6
+957,metus vitae ipsum aliquam non,quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio,98.76,10
+958,mauris vulputate elementum,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,92.34,7
+959,aliquet at feugiat non,mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac,3.29,7
+960,aliquet ultrices erat tortor,turpis integer aliquet massa id lobortis convallis tortor risus dapibus,1.43,3
+961,ac nulla sed vel enim,nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,52.53,3
+962,ligula in lacus,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu,84.82,5
+963,nulla mollis molestie lorem quisque,tristique in tempus sit amet sem fusce,89.63,1
+964,nullam varius,mauris lacinia sapien quis,74.27,1
+965,adipiscing elit proin interdum mauris,mus,9.31,7
+966,proin eu mi nulla,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit,10.55,2
+967,dictumst morbi vestibulum velit,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc,94.9,6
+968,scelerisque quam turpis adipiscing lorem,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,92.22,9
+969,erat quisque,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at,33.92,10
+970,mattis,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,90.66,7
+971,nulla pede ullamcorper augue,aliquet at feugiat non pretium quis lectus suspendisse potenti in,7.95,8
+972,gravida,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac,40.68,5
+973,quisque arcu,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at,58.67,1
+974,augue aliquam erat volutpat,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet,17.7,1
+975,in,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis,52.75,3
+976,sed vel enim,eu mi nulla ac,88.88,9
+977,neque duis bibendum morbi non,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh,12.95,1
+978,amet nunc viverra dapibus nulla,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra,71.31,2
+979,velit eu est,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique,15.19,3
+980,sapien non,condimentum,23.27,6
+981,magna ac,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam,97.87,8
+982,viverra,mi nulla ac enim in tempor,62.03,2
+983,purus aliquet at feugiat non,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi,55.43,8
+984,placerat ante,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac,28.82,4
+985,justo,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue,94.18,2
+986,consequat lectus in,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum,18.11,5
+987,enim lorem ipsum,dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum,70.81,5
+988,pede ullamcorper augue a,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a,90.77,1
+989,pede justo lacinia eget tincidunt,a nibh in quis justo maecenas,93.94,3
+990,nulla justo aliquam,fusce posuere felis sed lacus morbi,51.15,8
+991,ipsum,ut ultrices vel augue vestibulum ante ipsum primis,98.87,10
+992,maecenas rhoncus aliquam lacus morbi,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in,56.45,2
+993,ultrices posuere cubilia curae,phasellus sit amet erat nulla,6.45,5
+994,nulla tellus,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,7.45,2
+995,parturient montes nascetur,orci vehicula condimentum curabitur in libero,91.91,9
+996,id,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,21.41,3
+997,eu mi,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,27.26,10
+998,consectetuer adipiscing elit proin interdum,sed,31.13,7
+999,quam sapien varius ut blandit,sed magna at nunc,8.58,10
+1000,in purus eu magna vulputate,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet,19.44,10
+1001,lacus morbi sem,in faucibus orci luctus,7.36,10
+1002,integer,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula,13.62,5
+1003,vestibulum quam sapien varius ut,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,75.89,2
+1004,vestibulum sed magna,volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,49.6,7
+1005,tellus in,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis,77.14,8
+1006,laoreet ut rhoncus aliquet pulvinar,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo,54.82,1
+1007,et ultrices,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui,32.1,2
+1008,leo odio porttitor id,accumsan tellus nisi eu orci,35.75,6
+1009,in sagittis dui vel nisl,dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros,50.91,7
+1010,placerat ante nulla,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus,56.6,1

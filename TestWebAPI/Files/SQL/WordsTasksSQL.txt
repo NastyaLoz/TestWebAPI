@@ -1,0 +1,3 @@
+BULK INSERT [DbTestWebAPI].[dbo].[WordsTasks]
+FROM '...\TestWebAPI\TestWebAPI\Files\CSV\WordsTasks.csv'
+WITH (FIRSTROW = 2,FIELDTERMINATOR = ',', ROWTERMINATOR = '\n'); 
