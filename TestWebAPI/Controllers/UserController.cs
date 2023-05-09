@@ -84,13 +84,21 @@ namespace TestWebAPI.Controllers
         /// Вернет обновленный User. Пример ввода:
         /// 
         ///     {
-        ///         userId: 2,
+        ///         userId: 5,
         ///         email: newEmail@gmail.com,
         ///         login: newLogin,
         ///         password: ghkflkg,
         ///         name: New Name
         ///     }
+        ///
+        /// Если опустить некоторые значения (кроме userId), эти поля сохранят свои текущие значения. Пример ввода:
         /// 
+        ///     {
+        ///         userId: 5,
+        ///         name: NewName
+        ///     }
+        ///
+        /// Этот код изменит только параметр name у User
         /// </remarks>
         /// <returns></returns>
         [HttpPut("update")]
@@ -104,7 +112,7 @@ namespace TestWebAPI.Controllers
         /// Удалить User по Id
         /// </summary>
         /// <remarks>
-        /// Вернет код результата. Пример ввода:
+        /// Вернет код результата. Важно! Удалит все связанные с данным пользователем (по userId) значения из связанных таблиц LearnedWords и CompletedTasks. Пример ввода:
         /// 
         ///     {
         ///         userId: 2

@@ -12,5 +12,10 @@
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.7" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Files\Gif" />
+      <Folder Include="Files\Images" />
+    </ItemGroup>
     
 </Project>

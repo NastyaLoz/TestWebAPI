@@ -93,6 +93,14 @@ namespace TestWebAPI.Controllers
         ///         typeId: ghkflkg,
         ///     }
         /// 
+        /// Если опустить некоторые значения (кроме taskId), эти поля сохранят свои текущие значения. Пример ввода:
+        /// 
+        ///     {
+        ///         taskId: 2,
+        ///         name: NewNameTask
+        ///     }
+        ///
+        /// Этот код изменит только параметр name у Task
         /// </remarks>
         /// <returns></returns>
         [HttpPut("update")]
@@ -106,7 +114,7 @@ namespace TestWebAPI.Controllers
         /// Удалить Task по id
         /// </summary>
         /// <remarks>
-        /// Вернет код результата. Пример ввода:
+        /// Вернет код результата. Важно! Удалит все связанные с данной задачей (по typeId) значения из связанных таблиц WordsTasks и CompletedTasks. Пример ввода:
         /// 
         ///     {
         ///         taskId: 2
