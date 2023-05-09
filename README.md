@@ -339,6 +339,7 @@ WITH (FIRSTROW = 2,FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
 ![OtherRequest](./TestWebAPI/Files/Gif/OtherRequest.gif)
 
 #### Код запросов на LINQ
+Полный код методов можно посмотреть в файле [OtherRepository](./TestWebAPI/Repositories/Other/OtherRepository.cs)
 
 + Вывести все слова, которые выучил заданный пользователь и на какой процент:
 ```C#
