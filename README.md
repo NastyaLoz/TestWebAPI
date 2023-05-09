@@ -18,7 +18,7 @@
 В проекте были созданы модели сущностей БД, произведены миграции в SQL Server Management Studio. Выполнено наполнение БД тестовыми псевдо-реалистичными данными путём их импорта из файлов CSV посредством запросов SQl.
 ### Модели сущностей БД
 Модель сущности Users:
-```C#
+```cs
 public class Users
 {
     [Key]
@@ -313,7 +313,7 @@ WITH (FIRSTROW = 2,FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
 
 Запросы для Users:
 
-![Users_Request](./TestWebAPI/Files/Gif/UsersRequest.gif)
+![Users_Request](./TestWebAPI/Files/Gif/UsersRequestSw.gif)
 
 Запросы для Tasks:
 
@@ -337,6 +337,64 @@ WITH (FIRSTROW = 2,FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
 Их вид в Swagger:
 
 ![OtherRequest](./TestWebAPI/Files/Gif/OtherRequest.gif)
+
+#### Код запросов на LINQ
+
++ Вывести все слова, которые выучил заданный пользователь и на какой процент:
+```C#
+var res =  await Context.LearnedWords.Where(q => q.UserId == UserId).Select(q => new WordWithPercentDto {Word = q.Words.Word, Percent = q.Percent}).ToArrayAsync();
+```
++ Вывести все задания заданного типа, выполненные заданным пользователем за последнюю неделю, уровень сложности которых от X до Y, например, от 3 до 5, а название начинается со слова, например, "Повторение ...":
+```C#
+var dateToday = DateTime.Today;
+var dayOfWeek = (int)dateToday.DayOfWeek;
+var dateMonday = dateToday.AddDays(1-dayOfWeek);
+
+var res = await Context.CompletedTasks
+	// возьмем выполненные задачи (ComponentTasks) по пользователю (UserId) и типу (TypeId) 
+	.Where(q => q.UserId == user.UserId && q.Tasks.TypeId == type.TypeId)
+	// далее извлечем задачи, удовлетворяющие условию: DifLvlMin < DifficaltyLvl < DifLvlMax
+	.Where(q => q.Tasks.DifficaltyLvl > filters.DifLvlMin && q.Tasks.DifficaltyLvl < filters.DifLvlMax)
+	// выполненные втечение текущей недели
+	.Where(q=>DateTime.Compare(q.DateCompletion, dateMonday) >= 0 && DateTime.Compare(q.DateCompletion, dateToday)<=0)
+	// задачи, имя которых начинается с указанного в фильтрах значения StartWithStr
+	.Where(q=>q.Tasks.Name.StartsWith(filters.StartWithStr))
+	// преобразем к нужной модели данных
+	.Select(q=>new TaskByUserAndTypeDto{Name = q.Tasks.Name, Description = q.Tasks.Description, DifficaltyLvl = q.Tasks.DifficaltyLvl})
+	.ToArrayAsync();
+```
++ Вывести все задания, в которые входит заданное слово и статус, выполнено ли это задание заданным пользователем:
+```C#
+var res = await Context.CompletedTasks
+	.Where(q => q.UserId == filters.UserId && q.Tasks.Description.Contains(filters.Word))
+	.Select(q=>
+        	new TaskDto
+                {
+                	TaskId = q.TaskId,
+                        Name = q.Tasks.Name,
+                        Description = q.Tasks.Description,
+                        DifficaltyLvl = q.Tasks.DifficaltyLvl,
+                        TypeId = q.Tasks.TypeId
+		})
+	.ToArrayAsync();
+```
++ Вывести ТОП N пользователей, отсортированных по количеству изученных слов на процент, больше ХХ%, где N - целое число (т.е. вывести ТОП 5 или ТОП 3 пользователя и т.п.):
+```C#
+var res= await Context.LearnedWords
+	// возьмем изученные слова с процентом изученности больше заданного
+	.Where(q => q.Percent > filters.Percent)
+	// преобразуем в новый тип - извлечем кол-во изученных каждым пользователем слов и самих пользователей
+	.Select(q => new {user = q.Users, count = q.Users.LearnedWords.Count})
+	// оставим только уникальных пользователей
+	.Distinct()
+	// отсортируем по убыванию на основе кол-ва изученных слов
+	.OrderByDescending(q=>q.count)
+	// извлечем пользователей
+	.Select(q=>q.user)
+	// возмем n-е кол-во первых пользователей
+	.Take(filters.TopNum)
+	.ToArrayAsync();
+```
 
 
 
