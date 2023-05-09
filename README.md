@@ -295,14 +295,14 @@ GO
 ```
 
 ### Заполнение БД
-Для наполнения БД были сгенерированы файлы CSV с тестовыми данными (находятся в папке [CSV](.TestWebAAPI/Files/CSV)). Для всех сущностей помимо Types были созданы 1010 записей, для Types 10 записей. В SQL Server Management Studio для каждого файла были выполнены SQL скрипты, общий вид которых сводится к:
+Для наполнения БД были сгенерированы файлы CSV с тестовыми данными (находятся в папке [CSV](.TestWebAPI/Files/CSV)). Для всех сущностей помимо Types были созданы 1010 записей, для Types 10 записей. В SQL Server Management Studio для каждого файла были выполнены SQL скрипты, общий вид которых сводится к:
 
 ```SQL
 BULK INSERT [DbTestWebAPI].[dbo].[TableName]
 FROM '...\TestWebAPI\TestWebAPI\Files\CSV\FileName.csv'
 WITH (FIRSTROW = 2,FIELDTERMINATOR = ',', ROWTERMINATOR = '\n');
 ```
-Все SQL скрипты можно найти в папке [SQL](.TestWebAAPI/Files/SQL) проекта.
+Все SQL скрипты можно найти в папке [SQL](.TestWebAPI/Files/SQL) проекта.
 
 
 ## Запросы Swagger
