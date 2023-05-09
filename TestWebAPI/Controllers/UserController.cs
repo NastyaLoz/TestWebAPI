@@ -20,12 +20,11 @@ namespace TestWebAPI.Controllers
         }
         
         ///////// Users /////////
-        // Взять все Users
         /// <summary>
-        /// Take all Users
+        /// Взять всех Users
         /// </summary>
         /// <remarks>
-        /// Returns an array of Users
+        /// Вернет массив Users
         /// </remarks>
         /// <returns></returns>
         [HttpGet("")]
@@ -36,12 +35,11 @@ namespace TestWebAPI.Controllers
             return users;
         }
         
-        /// Взять User по его id
         /// <summary>
-        /// Take User by id
+        /// Взять User по его id
         /// </summary>
         /// <remarks>
-        /// Return a User with the corresponding Id . Example input:
+        /// Вернет User по заданному Id. Пример ввода:
         /// 
         ///     {
         ///         userId: 1
@@ -57,12 +55,11 @@ namespace TestWebAPI.Controllers
             return user;
         }
         
-        // Создадим нового User
         /// <summary>
-        /// Creating a New User
+        /// Создать нового User
         /// </summary>
         /// <remarks>
-        /// Returns the created User. Example input:
+        /// Вернет созданного User. Пример ввода:
         /// 
         ///     {
         ///         email: newEmail@gmail.com,
@@ -80,12 +77,11 @@ namespace TestWebAPI.Controllers
             return result;
         }
         
-        // Обновление User
         /// <summary>
-        /// Update User
+        /// Обновить User
         /// </summary>
         /// <remarks>
-        /// Return the corresponding User with changes. Example input:
+        /// Вернет обновленный User. Пример ввода:
         /// 
         ///     {
         ///         userId: 2,
@@ -104,12 +100,11 @@ namespace TestWebAPI.Controllers
             return result;
         }
         
-        // Удаление User по id
         /// <summary>
-        /// Removing a User by its Id
+        /// Удалить User по Id
         /// </summary>
         /// <remarks>
-        /// Returns a result code. Example input:
+        /// Вернет код результата. Пример ввода:
         /// 
         ///     {
         ///         userId: 2

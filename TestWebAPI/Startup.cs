@@ -37,6 +37,7 @@ namespace TestWebAPI
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:DbTestWebAPI"]));
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ITaskRepository, TaskRepository>();
+            services.AddScoped<IOtherRepository, OtherRepository>();
 
             services.AddSwaggerGen(c =>
             {

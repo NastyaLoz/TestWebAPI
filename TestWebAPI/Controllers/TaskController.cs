@@ -21,12 +21,11 @@ namespace TestWebAPI.Controllers
         }
         
         ///////// Tasks /////////
-        // Взять все Tasks
         /// <summary>
-        /// Take all Tasks
+        /// Взять все Tasks
         /// </summary>
         /// <remarks>
-        /// Returns an array of Tasks
+        /// Вернет массив Tasks
         /// </remarks>
         /// <returns></returns>
         [HttpGet("")]
@@ -39,10 +38,10 @@ namespace TestWebAPI.Controllers
         
         /// Взять Task по его id
         /// <summary>
-        /// Take Task by id
+        /// Взять Task по его id
         /// </summary>
         /// <remarks>
-        /// Return a Task with the corresponding Id . Example input:
+        /// Вернет Task по заданному Id. Пример ввода:
         /// 
         ///     {
         ///         taskId: 1
@@ -58,12 +57,11 @@ namespace TestWebAPI.Controllers
             return task;
         }
         
-        // Создадим новый Task
         /// <summary>
-        /// Creating a New Task
+        /// Создать новый Task
         /// </summary>
         /// <remarks>
-        /// Returns the created Task. Example input:
+        /// Вернет созданный Task. Пример ввода:
         /// 
         ///     {
         ///         name: NewTask,
@@ -81,12 +79,11 @@ namespace TestWebAPI.Controllers
             return result;
         }
         
-        // Обновление Task
         /// <summary>
-        /// Update Task
+        /// Обновить Task
         /// </summary>
         /// <remarks>
-        /// Return the corresponding Task with changes. Example input:
+        /// Вернет обновленный Task. Пример ввода:
         /// 
         ///     {
         ///         taskId: 2,
@@ -105,12 +102,11 @@ namespace TestWebAPI.Controllers
             return result;
         }
         
-        // Удаление Task по id
         /// <summary>
-        /// Removing a Task by its Id
+        /// Удалить Task по id
         /// </summary>
         /// <remarks>
-        /// Returns a result code. Example input:
+        /// Вернет код результата. Пример ввода:
         /// 
         ///     {
         ///         taskId: 2
